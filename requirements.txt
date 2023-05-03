@@ -1,0 +1,4 @@
+streamlit
+streamlit-bokeh-events
+bokeh
+pandas
